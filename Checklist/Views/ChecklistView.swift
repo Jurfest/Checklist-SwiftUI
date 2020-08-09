@@ -116,7 +116,9 @@ struct ChecklistView: View {
                 trailing: EditButton()
             )
                 .navigationBarTitle("Checklist", displayMode: .inline) .onAppear() {
-                    self.checklist.printChecklistContents() }
+                    self.checklist.printChecklistContents()
+                    self.checklist.saveListItems()
+            }
         }
         .sheet(isPresented: $newChecklistItemViewIsVisible) {
             NewChecklistItemView(checklist: self.checklist)
