@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Preview Small" src="./previewA/Assets.xcassets/preview.imageset/preview.png" width="250px"/>
+  <img alt="Preview Small" src="./Checklist/Assets.xcassets/preview.imageset/previewA.png" width="250px"/>
     <br>
 </h1>
 
@@ -40,13 +40,13 @@ For data persistence the codable protocol (serialization) and the FileManager we
 ### Preview
 
 <h1 align="center">
-    <img alt="Preview One" src="./previewD/Assets.xcassets/preview.imageset/preview.png" width="940px"/>
+    <img alt="Preview One" src="./Checklist/Assets.xcassets/preview.imageset/previewD.png" width="940px"/>
 </h1>
 <h1 align="center">
-    <img alt="Preview Two" src="./previewC/Assets.xcassets/preview.imageset/preview.png" width="940px"/>
+    <img alt="Preview Two" src="./Checklist/Assets.xcassets/preview.imageset/previewC.png" width="940px"/>
 </h1>
 <h1 align="center">
-    <img alt="Preview Three" src="./previewB/Assets.xcassets/preview.imageset/preview.png" width="940px"/>
+    <img alt="Preview Three" src="./Checklist/Assets.xcassets/preview.imageset/previewB.png" width="940px"/>
 </h1>
 
 ### Acknowledgment
